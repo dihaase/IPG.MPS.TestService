@@ -1,0 +1,1 @@
+sc stop IPG.MPS.TestService
